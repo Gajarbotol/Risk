@@ -1,0 +1,15 @@
+{
+  "name": "telegram-url-shortener-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for shortening URLs using Bitly API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GAJAR BOTOL",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0",
+    "node-fetch": "^3.0.0"
+  }
+}
